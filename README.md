@@ -1,1 +1,5 @@
-# ADEUIP
+Voltage, Current, and Power Measurement Welcome to the ADEADE7912 repository! This project is designed to facilitate accurate measurements of voltage, current, and power using the ADEADE7912 integrated circuit. Whether you're working on a power management system, energy monitoring project, or any application requiring precise electrical measurements, this repository provides the tools and code to get you started quickly.
+
+Features Accurate Measurements: Utilizes the ADEADE7912 IC for high-precision voltage, current, and power measurements. Easy Integration: Sample code and libraries to integrate the ADEADE7912 with popular microcontrollers and development platforms. Data Logging: Capability to log measurement data for analysis and visualization. Customizable: Easily modify and extend the code to suit specific project requirements. Getting Started Prerequisites Before using this repository, ensure you have the following:
+
+ADEADE7912 IC and necessary hardware components Microcontroller or development board (e.g., Arduino, ESP32) Basic understanding of electrical circuits and measurement# ADEIUP
